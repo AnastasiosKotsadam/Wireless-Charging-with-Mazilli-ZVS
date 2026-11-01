@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BZX85C15
+D Zener Voltage Range - 3.3 V to 85 V; ESD Rating of Class 3 (>16 KV) per Human Body Model; DO-41 (DO-204AL) Package; Double Slug Type Construction; Metallurgical Bonded Construction; Oxide Passivated Die; Mechanical Characteristics: CASE: Double slug type, hermetically sealed glass FINISH: All external surfaces are corrosion resistant and leads are readily solderable MAXIMUM LEAD TEMPERATURE FOR SOLDERING PURPOSES:230C, 1/16" from the case for 10 seconds POLARITY: Cathode indicated by polarity band MOUNTING
+K
+F https://www.onsemi.com/pub/Collateral/BZX85C3V3-D.PDF
+$ENDCMP
+#
+#End Doc Library

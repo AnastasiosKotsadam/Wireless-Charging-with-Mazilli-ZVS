@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2300HT-101-V-RC
+D 100 H Shielded Toroidal Inductor 8.3 A 41mOhm Max Radial, Vertical (Open)
+K
+F https://www.bourns.com/docs/Product-Datasheets/2300ht_series.pdf
+$ENDCMP
+#
+#End Doc Library

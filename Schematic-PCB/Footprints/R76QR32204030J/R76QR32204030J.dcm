@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP R76QR32204030J
+D R76, Film, Double Metallized Polypropylene, General Purpose, 0.22 uF, 5%, 600 VAC, 1000 VDC, 110C, -55C, 85C, 0.03 % , 100 GOhms, 1000 V/us, 18 nH, 10.1 g, 32mm, 22mm, 13mm, Lead Spacing = 27.5mm, 288
+K
+F https://www.yageogroup.com/content/datasheet/asset/file/KEM_F3034_R76
+$ENDCMP
+#
+#End Doc Library

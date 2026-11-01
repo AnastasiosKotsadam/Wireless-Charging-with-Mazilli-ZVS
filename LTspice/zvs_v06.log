@@ -1,0 +1,23 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\User\Desktop\Zero Voltage Switching\zvs_v06_folder\zvs_v06.net
+Start Time: Fri Oct 30 13:32:04 2026
+solver = Normal
+Maximum thread count: 6
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n007 is floating.
+
+Direct Newton iteration succeeded in finding operating point.
+
+Simulation stopped by user.
+Total elapsed time: 30.691 seconds.
+
+Files loaded:
+C:\Users\User\Desktop\Zero Voltage Switching\zvs_v06_folder\zvs_v06.net
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\User\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\User\Desktop\Zero Voltage Switching\zvs_v06_folder\ina181a1.lib
+C:\Users\User\Desktop\Zero Voltage Switching\zvs_v06_folder\lm393.lib
+C:\Users\User\Desktop\Zero Voltage Switching\zvs_v06_folder\regulators.lib
+

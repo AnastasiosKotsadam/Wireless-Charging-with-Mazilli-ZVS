@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ZVS") (type "KiCad") (uri "${KIPRJMOD}/ZVS.pretty") (options "") (descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N5822
+D TAIWAN SEMICONDUCTOR - 1N5822 - Schottky Rectifier, 40 V, 3 A, Single, DO-201AD, 2 Pins, 950 mV
+K
+F https://www.taiwansemi.com/assets/datasheet/pdf.php?pn=1N5822
+$ENDCMP
+#
+#End Doc Library

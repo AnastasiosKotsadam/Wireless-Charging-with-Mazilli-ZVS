@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF740PBF
+D MOSFET N-CH  400V HEXFET MOSFET
+K
+F https://www.arrow.com/en/products/irf740pbf/vishay.html?utm_currency=USD&region=europe
+$ENDCMP
+#
+#End Doc Library
