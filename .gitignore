@@ -1,0 +1,19 @@
+# KiCad
+*-backups/
+*.lck
+fp-info-cache
+*.kicad_prl
+_autosave-*
+
+# LTspice (simulation results, regenerated on every run)
+*.raw
+*.log
+*.net
+*.op.raw
+*.fft
+*.plt
+
+# Arduino build output
+build/
+*.hex
+*.elf
